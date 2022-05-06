@@ -1,0 +1,5 @@
+Anotações sobre alguns códigos aprendidos no decorrer do curso.
+
+Link de instalação do Git: https://git-scm.com/
+
+......
